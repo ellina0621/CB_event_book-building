@@ -29,6 +29,6 @@
 ![result](https://meee.com.tw/3oFtmWy.png)
 
 # 樣本外實盤結果
-![result](https://meee.com.tw/RtkCGWE.png}
+![result](https://meee.com.tw/TwbgBo7.png)
 
 ![result](https://meee.com.tw/tsKKo2q.png)
