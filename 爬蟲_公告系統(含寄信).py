@@ -302,12 +302,11 @@ if __name__ == "__main__":
     
     RECIPIENT_EMAIL = [
         "ella51284226@gmail.com",
-        "peterxu331@gmail.com",
         "1148288@taishinbank.com.tw"
     ]
     
     SENDER_EMAIL = "ella51284226@gmail.com"  
-    SENDER_PASSWORD = "bytz dsvb yybh hjsc" 
+    SENDER_PASSWORD = "XXXXX" 
     # ========================================
     
     save_path = r"D:\我才不要走量化\可轉換公司債"
@@ -329,4 +328,6 @@ if __name__ == "__main__":
         
         # 如果要爬取承銷公告，使用：
         # df_underwriting = scrape_twsa_data(year=2025, report_type='underwriting')
+
         # save_to_excel(df_underwriting, save_dir=save_path, filename="承銷公告_20251229.xlsx")
+        
