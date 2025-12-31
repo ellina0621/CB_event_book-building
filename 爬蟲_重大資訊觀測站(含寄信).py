@@ -356,12 +356,11 @@ if __name__ == "__main__":
 
     RECIPIENT_EMAIL = [
         "ella51284226@gmail.com",
-        "peterxu331@gmail.com",
         "1148288@taishinbank.com.tw"
     ]
 
     SENDER_EMAIL = "ella51284226@gmail.com"
-    SENDER_PASSWORD = "bytz dsvb yybh hjsc"    # ← 換成 Gmail 應用程式密碼（不是登入密碼）
+    SENDER_PASSWORD = "XXXX"    # ← 換成 Gmail 應用程式密碼（不是登入密碼）
 
     save_directory = r"D:\我才不要走量化\可轉換公司債"
     keyword = "專戶行庫"
@@ -422,3 +421,4 @@ if __name__ == "__main__":
         )
 
     print("\n完成!")
+
