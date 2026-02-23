@@ -1,4 +1,5 @@
-# CB_event_book-building
+# CB_event_book-building (新增券商)
+
 認為公司會在cb定價前會把標的價格拉高，這樣cb轉換定價就會變高。債權人可以轉換的股價下降 and 不一定會行使轉換權利，對公司來說是好事。(但不排除有些發行是為了要給配給大股東增加股票...這還要再研究)
 
 ![result](https://meee.com.tw/pFXDLsH.png)
@@ -31,3 +32,6 @@
 ![result](https://meee.com.tw/TwbgBo7.png)
 
 ![result](https://meee.com.tw/tsKKo2q.png)
+
+# 優化策略
+![result]
