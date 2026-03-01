@@ -34,9 +34,11 @@
 # 優化策略
 ![result](https://meee.com.tw/ordMw4c.png)
 
-![result](https://meee.com.tw/FhpyVBX.png)
+![result](https://meee.com.tw/s6ITVkw.png)
 
-![result](https://meee.com.tw/TebiDhc.png)
+![result](https://meee.com.tw/9ZLMvNn.png)
+
+![result](https://meee.com.tw/GhJ8mId.png)
 
 ![result](https://meee.com.tw/tsKKo2q.png)
 
