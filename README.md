@@ -32,13 +32,12 @@
 ![result](https://meee.com.tw/TwbgBo7.png)
 
 # 優化策略
-![result](https://meee.com.tw/ordMw4c.png)
+![result](https://meee.com.tw/8Dx82wF.png)
 
-![result](https://meee.com.tw/s6ITVkw.png)
+![result](https://meee.com.tw/A4vFRnv.png)
 
-![result](https://meee.com.tw/9ZLMvNn.png)
+![result](https://meee.com.tw/fcAAltt.png)
 
-![result](https://meee.com.tw/mA0jzoy.png)
+![result](https://meee.com.tw/hfLMwZa.png)
 
-![result](https://meee.com.tw/tsKKo2q.png)
-
+![result](https://meee.com.tw/TMGjLDv.png)
